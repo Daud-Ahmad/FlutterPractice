@@ -8,6 +8,7 @@ import 'package:xth_app/widgets/list.dart';
 
 void main() {
   runApp(const MyApp());
+  
 }
 
 class MyApp extends StatelessWidget {
